@@ -13,7 +13,7 @@ public static void reverse(int num[]){
      }
 }
 
-    public static void main(String[] args) {
+public static void main(String[] args) {
         int num[] = {5,6,3,4,9,10};
 
            reverse(num);
